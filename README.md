@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Jagrati</h1>
+<h3 align="center" >I'm a python backend developer</h3>
 
-<!--
-**jgrt/jgrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects using [DRF](https://www.django-rest-framework.org/), [FastAPI](https://fastapi.tiangolo.com/)
+- 🌱 I’m currently learning **Cloud Infrastructure**
+- 💬 Ask me about **Python, Pandas, Django Rest Framework, SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Jagrati's github stats](https://github-readme-stats.vercel.app/api?username=jgrt&hide=contribs&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jgrt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrt&layout=compact&theme=radical&hide_border=true)](https://github.com/jgrt/github-readme-stats)
+
+
+<br>
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrt&repo=drf-book-my-ticket)](https://github.com/jgrt/drf-book-my-ticket)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrt&repo=101-Pandas-Exercises)](https://github.com/jgrt/101-Pandas-Exercises)
+
