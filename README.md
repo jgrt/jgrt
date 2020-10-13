@@ -10,7 +10,7 @@
 <br>
 
 [![Jagrati's github stats](https://github-readme-stats.vercel.app/api?username=jgrt&hide=contribs&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jgrt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrt&layout=compact&theme=radical&hide_border=true)](https://github.com/jgrt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrt&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/jgrt/github-readme-stats)
 
 
 <br>
