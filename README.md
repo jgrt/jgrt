@@ -4,8 +4,8 @@
 <br>
 
 - 🔭 I’m currently working on projects using [DRF](https://www.django-rest-framework.org/), [FastAPI](https://fastapi.tiangolo.com/)
-- 🌱 I’m currently learning **Cloud Infrastructure**
-- 💬 Ask me about **Python, Pandas, Django Rest Framework, SQL**
+- 🌱 I’m currently learning **Graph Database**
+- 💬 Ask me about **Python, Pandas, Django Rest Framework, SQL, Visualizations**
 
 <br>
 
