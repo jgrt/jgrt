@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on projects using [DRF](https://www.django-rest-framework.org/), [FastAPI](https://fastapi.tiangolo.com/)
-- 🌱 I’m currently learning **Graph Database (Neo4J)**
+- 🌱 I’m currently learning **Graph Database ([Neo4J](https://neo4j.com/try-neo4j/?ref=brb))**
 - 💬 Ask me about **Python, Pandas, Django Rest Framework, SQL, Visualizations**
 
 <br>
